@@ -122,7 +122,6 @@ textarea {
     border-color:rgba(255, 255, 255, 0.75)
 }
 
-
 .prompt-buttons {
     display: flex;
     place-content: center;
@@ -172,7 +171,7 @@ textarea {
 .generate-button {
     place-content: flex-start;
     align-items: flex-start;
-    background-color: rgb(255, 79, 18);
+    background-color: rgb(47, 221, 9);
     border-radius: 100px;
     display: flex;
     flex: 0 0 auto;
